@@ -1,5 +1,5 @@
 ---
-name: privacy-policy-writer
+name: "privacy-policy-writer"
 description: 为 Shopline 应用市场插件撰写、生成或改写隐私政策（Privacy Policy）文档。当用户提到"写隐私政策"、"帮我生成一份隐私政策"、"仿照这个隐私政策写一份"、"给 XX 插件写隐私政策"、"privacy policy"、"隐私协议"、"数据政策"等关键词时，主动使用本 skill。即使用户只描述了插件的功能，也应先套用本 skill 的结构模板再输出，不要临时自创格式。适用于 Shopline 平台各类插件（电商合规类、ERP同步类、营销类、支付类等），只需替换变量占位符即可快速生成符合 Shopline 应用市场要求的完整隐私政策。
 ---
 
